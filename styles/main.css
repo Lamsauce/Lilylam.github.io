@@ -48,3 +48,11 @@ footer {
 .title {
     color: rgb(255, 68, 99);
 }
+
+.card-project {
+    padding-top: 15px;
+}
+
+#portfolio-card {
+    box-shadow: 0px 2px 8px 6px rgba(0,0,0,0.2);
+}
