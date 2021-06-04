@@ -71,3 +71,11 @@ footer {
 .social:hover {
     color: rgb(77, 124, 255);
 }
+
+footer {
+    color: white;
+}
+
+a {
+    color: rgb(255, 68, 99);
+}
