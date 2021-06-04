@@ -63,3 +63,11 @@ footer {
     box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.4);
     transform: scale(1.05); 
 }
+
+.social {
+    transition: 150ms linear;
+}
+
+.social:hover {
+    color: rgb(77, 124, 255);
+}
